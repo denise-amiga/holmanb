@@ -1,0 +1,9 @@
+[submodule "tic-tic-toe"]
+	path = tic-tic-toe
+	url = https://github.com/holmanb/tic-tic-toe.git
+[submodule "generators"]
+	path = generators
+	url = https://github.com/holmanb/generators.git
+[submodule "set-c"]
+	path = set-c
+	url = https://github.com/holmanb/set-c.git
